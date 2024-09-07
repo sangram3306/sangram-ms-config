@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to EazyBank accounts related webhook APIs"
+  message: "Hey, welcome to SamBank accounts related webhook APIs"
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
-    email: "{cipher}f83ac5a34ba5f4657ae8e863c063c1b69efb4d23d0c431eb134f8d1b3ed0823dee0a4b627d091455b4c6600353a3682c"
+    name: "Sanjay Mohanty - Product Owner"
+    email: "{cipher}0ff969e546a2d8b222c67c5b3f66aee07d9e9fcd2cbd09dba05d57135094a1ada07b7cc851356cc0bd84527a87c119b6"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
