@@ -4,7 +4,7 @@ build:
 loans:
   message: "Hey, welcome to SamBank loans related prod APIs "
   contactDetails:
-    name: "Sangram Mohanty - Product Owner"
+    name: "Sangram K Mohanty - Product Owner"
     email: "sangramkm@sambank.com"
   onCallSupport:
     - (723) 656-8709
