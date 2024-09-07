@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to SamBank cards related webhook APIs"
+  message: "Hey, welcome to SamBank cards related Webhook APIs"
   contactDetails:
     name: "Priyanka P Das - Product Owner"
     email: "priyankadas@sambank.com"
