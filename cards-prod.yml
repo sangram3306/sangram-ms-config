@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to SamBank cards related prod APIs"
+  message: "Hey, welcome to SamBank cards related webhook APIs"
   contactDetails:
-    name: "Priyanka Das - Product Owner"
+    name: "Priyanka P Das - Product Owner"
     email: "priyankadas@sambank.com"
   onCallSupport:
     - (617) 432-2356
